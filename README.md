@@ -7,6 +7,7 @@ I needed to add the following character:
 * '╯'
 * '╭'
 * '╰'
+
 As they were not alligned with
 * '─'
 * '│'
